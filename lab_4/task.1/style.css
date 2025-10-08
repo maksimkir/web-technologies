@@ -15,11 +15,11 @@ div{
 }
 
 
-.red  {
+.primary {
     color: red;
 }
 
-.nowrap {
+.singleline {
     white-space: nowrap;
 }
 
@@ -28,14 +28,19 @@ div{
     font-weight: bold;
 }
 
-.shadow {
+.softshadow {
     text-shadow: 5px -5px 3px red;
 }
 
-.decor {
+.fancy {
     text-decoration: line-through;
     text-transform: uppercase;
     text-indent: 50px;
+}
+
+.wide{
+    letter-spacing: 30px;
+    word-spacing: 50px;
 }
 
 
