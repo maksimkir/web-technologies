@@ -31,7 +31,7 @@ p > div.text-background{
     word-spacing: 50px;
 }
 
-div.text-bold > p {
+div.text-bold > p{
     font-weight: bold;
 }
 
